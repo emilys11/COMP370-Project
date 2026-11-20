@@ -1,0 +1,57 @@
+{
+  "spiderman_bnd": {
+    "raw": 6596,
+    "after_english": 6569,
+    "after_spam": 5480,
+    "after_duplicates": 5428,
+    "after_multi_movie": 5245,
+    "final": 4136,
+    "removed_by_reason": {
+      "not_english": 27,
+      "too_many_hashtags": 267,
+      "repeated_identical_text": 366,
+      "author_flooding": 441,
+      "spam_keywords": 13,
+      "too_many_links": 2,
+      "duplicate_text": 52,
+      "multi_movie": 183,
+      "not_about_movie": 1109
+    }
+  },
+  "odyssey": {
+    "raw": 4540,
+    "after_english": 4530,
+    "after_spam": 4031,
+    "after_duplicates": 4000,
+    "after_multi_movie": 3982,
+    "final": 3162,
+    "removed_by_reason": {
+      "not_english": 10,
+      "author_flooding": 175,
+      "repeated_identical_text": 225,
+      "too_many_hashtags": 95,
+      "spam_keywords": 4,
+      "duplicate_text": 31,
+      "multi_movie": 18,
+      "not_about_movie": 820
+    }
+  },
+  "moana": {
+    "raw": 1004,
+    "after_english": 998,
+    "after_spam": 801,
+    "after_duplicates": 799,
+    "after_multi_movie": 786,
+    "final": 684,
+    "removed_by_reason": {
+      "not_english": 6,
+      "author_flooding": 136,
+      "too_many_hashtags": 35,
+      "repeated_identical_text": 23,
+      "spam_keywords": 3,
+      "duplicate_text": 2,
+      "multi_movie": 13,
+      "not_about_movie": 102
+    }
+  }
+}

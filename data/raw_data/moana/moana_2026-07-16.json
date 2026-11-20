@@ -1,0 +1,3731 @@
+{
+  "movie": "moana",
+  "date": "2026-07-16",
+  "posts": [
+    {
+      "uri": "at://did:plc:zroputhd2qyabezf2wywzwlx/app.bsky.feed.post/3mqsfth3ow22z",
+      "cid": "bafyreicwy4m5rswu5dccq55jgej6ufnfe6bjvtjkjzd2sp2iranqrqly2e",
+      "author": {
+        "did": "did:plc:zroputhd2qyabezf2wywzwlx",
+        "handle": "gabea113.bsky.social",
+        "displayName": "GabeA113",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zroputhd2qyabezf2wywzwlx/bafkreicsmhs5zril6buyg7ishjdz42yao2w3uzel7aat52t2urlutxcxfm",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-02-07T19:30:13.077Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T23:39:17.679Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 650,
+                "width": 1206
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreichkryej4uqzscnmzhwvfluzuwnmrh2xs3p3nmm4o3yl4l5dodqk4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 237783
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "As someone who’s planning to see live action Moana on Disney+ instead of theaters, really?\n\nIt’s just bad CGI.\n\nAt least bad CGI is better than AI."
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zroputhd2qyabezf2wywzwlx/bafkreichkryej4uqzscnmzhwvfluzuwnmrh2xs3p3nmm4o3yl4l5dodqk4",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zroputhd2qyabezf2wywzwlx/bafkreichkryej4uqzscnmzhwvfluzuwnmrh2xs3p3nmm4o3yl4l5dodqk4",
+            "alt": "",
+            "aspectRatio": {
+              "height": 650,
+              "width": 1206
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 3,
+      "likeCount": 13,
+      "quoteCount": 2,
+      "indexedAt": "2026-07-16T23:39:19.675Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:yfr4n3cvw54u7dsob2csgiyw/app.bsky.feed.post/3mqsdgb3xgk2l",
+      "cid": "bafyreiezu2kknlwxs575eggiwpswhgcle3abcqn7n436z47z46yglw5uxm",
+      "author": {
+        "did": "did:plc:yfr4n3cvw54u7dsob2csgiyw",
+        "handle": "kylorenradio.bsky.social",
+        "displayName": "KyloRenRadio",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yfr4n3cvw54u7dsob2csgiyw/bafkreifh7fzgaohrhuq73ovvejcnbk5nvpr45jqbcg27xpagophkeavrmm",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:yfr4n3cvw54u7dsob2csgiyw",
+            "uri": "at://did:plc:yfr4n3cvw54u7dsob2csgiyw/app.bsky.actor.profile/self",
+            "cid": "bafyreig32ftomlauq7kdzaifgx3wkdwolbtckiusiha5zburvwcwpkgjey",
+            "val": "!no-unauthenticated",
+            "cts": "1970-01-01T00:00:00.000Z"
+          }
+        ],
+        "createdAt": "2023-06-22T09:56:06.800Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T22:56:07.706Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreigw3a44xqhbghg3qpx3m5dym27wukfg2far4dborh2yxzvrn233im",
+            "uri": "at://did:plc:yztvs5zcmjoh6s7kkj2tygo7/app.bsky.feed.post/3mmb5ozwd7c2u"
+          },
+          "root": {
+            "cid": "bafyreigw3a44xqhbghg3qpx3m5dym27wukfg2far4dborh2yxzvrn233im",
+            "uri": "at://did:plc:yztvs5zcmjoh6s7kkj2tygo7/app.bsky.feed.post/3mmb5ozwd7c2u"
+          }
+        },
+        "text": "How much does the underwhelming box office for the live-action Moana movie (after the underwhelming Mando & Grogu BO) play into Disney's future planning.\n\nI'd buy Reylo themed stuff from Disney, if they made any..."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T22:56:09.269Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:z3rowtjy62zpcharros4kq3i/app.bsky.feed.post/3mqs6qs2sdc2u",
+      "cid": "bafyreifbkkb6peemdhzfgmug4xbfg64o6yxko7namjixxqaztxjgnzcjze",
+      "author": {
+        "did": "did:plc:z3rowtjy62zpcharros4kq3i",
+        "handle": "neosnoopy.bsky.social",
+        "displayName": "cj",
+        "pronouns": "she/her",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3rowtjy62zpcharros4kq3i/bafkreiglv42nymcr5au2ux2nmmxzgyatqj6mjvkk75a5angi2roiwanl6m",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-18T21:20:35.647Z",
+        "status": {
+          "uri": "at://did:plc:z3rowtjy62zpcharros4kq3i/app.bsky.actor.status/self",
+          "cid": "bafyreih74up6bpclbcfbmq3oenfe4n32wh7nhohwozc33jwcoyf2xoofse",
+          "record": {
+            "$type": "app.bsky.actor.status",
+            "createdAt": "2026-09-30T17:49:29.243Z",
+            "durationMinutes": 120,
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "$type": "app.bsky.embed.external#external",
+                "description": "back to the village | Streaming resident evil village.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreib4ilrrya2o3jgsctykkksrjcv6fvn3wio2o7bneflne46niepkky"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 61474
+                },
+                "title": "cjneosnoopy - Live on Twitch",
+                "uri": "https://www.twitch.tv/cjneosnoopy"
+              }
+            },
+            "status": "app.bsky.actor.status#live"
+          },
+          "status": "app.bsky.actor.status#live",
+          "embed": {
+            "external": {
+              "uri": "https://www.twitch.tv/cjneosnoopy",
+              "title": "cjneosnoopy - Live on Twitch",
+              "description": "back to the village | Streaming resident evil village.",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z3rowtjy62zpcharros4kq3i/bafkreib4ilrrya2o3jgsctykkksrjcv6fvn3wio2o7bneflne46niepkky"
+            },
+            "$type": "app.bsky.embed.external#view"
+          },
+          "labels": [],
+          "expiresAt": "2026-09-30T19:49:29.243Z",
+          "isActive": false
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T21:32:32.329Z",
+        "langs": [
+          "en"
+        ],
+        "text": "came out of the live action moana thinking to myself…. why did they make a live action moana"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 8,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T21:32:33.070Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wpp74nthcgcyijdlwy2d7ch6/app.bsky.feed.post/3mqs6cwzfl22z",
+      "cid": "bafyreibuljv4yxp2rpuzd65ti5gmhbyj2loge5nwoxafts5mzpr2ydzkv4",
+      "author": {
+        "did": "did:plc:wpp74nthcgcyijdlwy2d7ch6",
+        "handle": "jdwcage.bsky.social",
+        "displayName": "NeillOttawaFPL",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wpp74nthcgcyijdlwy2d7ch6/bafkreidtet6oym6pd4v4ppfdagv2ucncby7kuzrqv2aptkbkopojqfixh4",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:wpp74nthcgcyijdlwy2d7ch6",
+            "uri": "at://did:plc:wpp74nthcgcyijdlwy2d7ch6/app.bsky.actor.profile/self",
+            "cid": "bafyreih4qzqxmzsf32yqykr2gqqh6xqulzpn7xylrppjo54triu2okbf4a",
+            "val": "!no-unauthenticated",
+            "cts": "2024-11-13T17:07:44.159Z"
+          }
+        ],
+        "createdAt": "2024-11-13T17:07:45.883Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T21:24:47.764Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "YouTube video by Pitch Meeting",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifwmzdwtfiuymsbldnhqwro24nz3mkaenpxdyhuopwrhrlfih4ire"
+              },
+              "mimeType": "image/jpeg",
+              "size": 141560
+            },
+            "title": "Live-Action Moana Pitch Meeting",
+            "uri": "https://youtu.be/svl6lsxCgB0?si=OemKS6XJ-qdTa2Ru"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://youtu.be/svl6lsxCgB0?si=OemKS6XJ-qdTa2Ru"
+              }
+            ],
+            "index": {
+              "byteEnd": 34,
+              "byteStart": 10
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "🍿 😅 youtu.be/svl6lsxCgB0?..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://youtu.be/svl6lsxCgB0?si=OemKS6XJ-qdTa2Ru",
+          "title": "Live-Action Moana Pitch Meeting",
+          "description": "YouTube video by Pitch Meeting",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wpp74nthcgcyijdlwy2d7ch6/bafkreifwmzdwtfiuymsbldnhqwro24nz3mkaenpxdyhuopwrhrlfih4ire"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T21:24:49.170Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:nhkwfz5d4nnmcjpie4ecvle4/app.bsky.feed.post/3mqs5eakfps2c",
+      "cid": "bafyreicrhgc3ec5ta3nh4cpm2hh7m3aslfjbcdxnbmlw4s5nf7jwl3ehvq",
+      "author": {
+        "did": "did:plc:nhkwfz5d4nnmcjpie4ecvle4",
+        "handle": "jaspers47.bsky.social",
+        "displayName": "Jasper J. Jaspers",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhkwfz5d4nnmcjpie4ecvle4/bafkreihhegq5x36xvcsmj2r4oi26wx6f5rqadcxkgv6g4rllqdxzaop2ze",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-12-01T09:04:48.952Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T21:07:37.572Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreid5dehsnmfciqbk6l46wmm6vktb4os4nxqjbqil2mjx3ddgeo5kxy",
+            "uri": "at://did:plc:yic4eez4gizdbpb7hrebcgwz/app.bsky.feed.post/3mqha4foolk2f"
+          },
+          "root": {
+            "cid": "bafyreid5dehsnmfciqbk6l46wmm6vktb4os4nxqjbqil2mjx3ddgeo5kxy",
+            "uri": "at://did:plc:yic4eez4gizdbpb7hrebcgwz/app.bsky.feed.post/3mqha4foolk2f"
+          }
+        },
+        "text": "First the Mandalorian movie, the  live-action Moana, now this. Disney really knows what audiences are hungry for."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T21:07:38.275Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wwhxhdtgakhxjzacxlacsn6n/app.bsky.feed.post/3mqs4epe2rk2y",
+      "cid": "bafyreif4x2sgmkceejna4g22zy3e4yppur7hyzo7qirks7ltq2okb72joa",
+      "author": {
+        "did": "did:plc:wwhxhdtgakhxjzacxlacsn6n",
+        "handle": "admiralmpj.bsky.social",
+        "displayName": "Malcolm P. Johnson",
+        "pronouns": "he/him",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wwhxhdtgakhxjzacxlacsn6n/bafkreicpujfkdlozueywf5saeb3zjloud4v4ntxgteuztfmxtnlrtmoyni",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-10T00:43:52.083Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T20:49:59.351Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Masters of the Universe bombed.\n\nSupergirl bombed.\n\nMoana (Live Action) Bombed.\n\nIs the problem the movies...\n\n...or is the problem that prices are too high in daily life (gas, groceries), and audiences can't afford to pay the increased ticket prices for movies they know they can wait for?"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 13,
+      "repostCount": 7,
+      "likeCount": 34,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T20:49:59.768Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:uzcbcwp4d4mylp2rjdcsd4hy/app.bsky.feed.post/3mqs246657s27",
+      "cid": "bafyreif72pu5ew4dt4ldhohcua34okc5air2vuicxl3ayuipomaisk7szq",
+      "author": {
+        "did": "did:plc:uzcbcwp4d4mylp2rjdcsd4hy",
+        "handle": "philafcc.bsky.social",
+        "displayName": "The Philadelphia Film Critics Circle ",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uzcbcwp4d4mylp2rjdcsd4hy/bafkreifbolfcfiw25o44lgxhqkdmmrzizkrbkokzxrjxe5chw4jvesiv24",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-11T20:41:32.903Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T20:09:25.412Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "by Rob DiCristino You’re getting two because I refuse to devote a whole column to live-action Moana .",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigb3swk3mkeochrr4g6ipecpgm5xxpzbcjc2pmb7lvu3rzcvjpeyi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 406391
+            },
+            "title": "Reviews: MOANA (2026) & NIGHT NURSE",
+            "uri": "http://www.fthismovie.com/2026/07/reviews-moana-2026-night-nurse.html"
+          }
+        },
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#mention",
+                "did": "did:plc:5fwrugdt5y2mtwaxcu64bmcw"
+              }
+            ],
+            "index": {
+              "byteEnd": 72,
+              "byteStart": 49
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "http://www.fthismovie.com/2026/07/reviews-moana-2026-night-nurse.html"
+              }
+            ],
+            "index": {
+              "byteEnd": 107,
+              "byteStart": 73
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Rob DiCristino reviews MOANA and NIGHT NURSE for @fthismovie.bsky.social www.fthismovie.com/2026/07/revi..."
+      },
+      "embed": {
+        "external": {
+          "uri": "http://www.fthismovie.com/2026/07/reviews-moana-2026-night-nurse.html",
+          "title": "Reviews: MOANA (2026) & NIGHT NURSE",
+          "description": "by Rob DiCristino You’re getting two because I refuse to devote a whole column to live-action Moana .",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uzcbcwp4d4mylp2rjdcsd4hy/bafkreigb3swk3mkeochrr4g6ipecpgm5xxpzbcjc2pmb7lvu3rzcvjpeyi"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T20:09:26.372Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:uzcbcwp4d4mylp2rjdcsd4hy/app.bsky.feed.post/3mqrzzzl5xk27",
+      "cid": "bafyreidljdywwgevv4c52bcpnvqfp636atiyetzm2kussil5isykgxeh5i",
+      "author": {
+        "did": "did:plc:uzcbcwp4d4mylp2rjdcsd4hy",
+        "handle": "philafcc.bsky.social",
+        "displayName": "The Philadelphia Film Critics Circle ",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uzcbcwp4d4mylp2rjdcsd4hy/bafkreifbolfcfiw25o44lgxhqkdmmrzizkrbkokzxrjxe5chw4jvesiv24",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-11T20:41:32.903Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T20:08:13.486Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "If the goal with Moana is to make money, Disney isprobably in a safe space. Almost all of the live-action adaptations of animatedfilms have been financially successful to one degree or another, with o...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaro5uclrxteurhzqc45ieny4j756l4dnvvevuoyudpg4ftjipufi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 139298
+            },
+            "title": "Moana (2026) | Reelviews Movie Reviews",
+            "uri": "https://www.reelviews.net/reelviews/moana-2026"
+          }
+        },
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#mention",
+                "did": "did:plc:ieq7tu7uotkw2amarftz2oso"
+              }
+            ],
+            "index": {
+              "byteEnd": 46,
+              "byteStart": 24
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.reelviews.net/reelviews/moana-2026"
+              }
+            ],
+            "index": {
+              "byteEnd": 80,
+              "byteStart": 47
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "James reviews MOANA for @reelviews.bsky.social www.reelviews.net/reelviews/mo..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.reelviews.net/reelviews/moana-2026",
+          "title": "Moana (2026) | Reelviews Movie Reviews",
+          "description": "If the goal with Moana is to make money, Disney isprobably in a safe space. Almost all of the live-action adaptations of animatedfilms have been financially successful to one degree or another, with o...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uzcbcwp4d4mylp2rjdcsd4hy/bafkreiaro5uclrxteurhzqc45ieny4j756l4dnvvevuoyudpg4ftjipufi"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T20:08:17.973Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:cs2trt6tevazzikxoyj2jera/app.bsky.feed.post/3mqrz72udyk2t",
+      "cid": "bafyreifxs24luqd7ehbvf5fc5ysvogz3whwmsrvsypbsojf32pbyelobfm",
+      "author": {
+        "did": "did:plc:cs2trt6tevazzikxoyj2jera",
+        "handle": "paulwartenberg.bsky.social",
+        "displayName": "Witty Librarian of City Of Heroes",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cs2trt6tevazzikxoyj2jera/bafkreiderydcxjmbpqi6iwqtit3syrw5tuayctwgoqquy6agdhrjzwxism",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-07-21T17:50:50.615Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T19:53:08.867Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreigc4xhsntts27pep6nkmgad2p5qakf2ivccv7ghdvzfrspmgixc4a",
+            "uri": "at://did:plc:vwmsevszvttawxpr4j3ryvnx/app.bsky.feed.post/3mqrz3233522p"
+          },
+          "root": {
+            "cid": "bafyreibu2efa6zgiuoql4gwyom4k6kyps4pdbuivugf3iphi753kqteaaq",
+            "uri": "at://did:plc:2orsuabrdskjpuglpru77po2/app.bsky.feed.post/3mqrxnsljkc2a"
+          }
+        },
+        "text": "I've noticed the Moana live-action movie pulled more in one week of release more than what Young Washington pulled in two weeks. Compared to the poorly-received \"woke\" Supergirl which is slightly outperforming YW, it may not make more at the box office."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T19:53:09.971Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:jsadz42irjmcell3mtx3spmg/app.bsky.feed.post/3mqrysel6v22k",
+      "cid": "bafyreigrblkcs7vpgon7d3inyhqvryfna2ofr7b7ubdnbugr3i5mseddru",
+      "author": {
+        "did": "did:plc:jsadz42irjmcell3mtx3spmg",
+        "handle": "tenderbeefsteak.bsky.social",
+        "displayName": "A Tender Beefsteak",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jsadz42irjmcell3mtx3spmg/bafkreicvad4q4map6iqu3fhsivdxlo4d2llrizgzpdabcckn4henwoaqhq",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-01-16T20:40:16.066Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T19:46:02.845Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Disney has learned their lesson after the disastrous opening weekend of the live action Moana film: Josh D'Amaro has announced a claymation version. \"It will somehow cost $400 million,\" the CEO vows."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T19:46:06.175Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:rgjzmhf77ewrsmxmyxaolsxn/app.bsky.feed.post/3mqrxlyvxwk2j",
+      "cid": "bafyreifpem34nvxiwad7t5knqhmsdvv4jxyxnt2jtxf652jzf73nsagzoq",
+      "author": {
+        "did": "did:plc:rgjzmhf77ewrsmxmyxaolsxn",
+        "handle": "metrotimes.com",
+        "displayName": "Detroit Metro Times",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rgjzmhf77ewrsmxmyxaolsxn/bafkreialqglo2lef2tglddupzqeeu3iuvvn4tftutwemx4ri2h3dce2pby",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-04-07T11:09:39.534Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "issuerDisplayName": "Bluesky",
+              "issuerHandle": "bsky.app",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mnurst4zjk24",
+              "isValid": true,
+              "createdAt": "2026-06-09T18:03:25.957Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T19:24:35.546Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "With only about five minutes between screenings, I caught “Evil Dead Burn” the live-action “Moana” remake and “The Invite.”",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiah7ycgld573o6w6dosicyohs227k2mqnqh4vwrk4hjomzpoybszi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 391256
+            },
+            "title": "The strange journey from “Evil Dead Burn” to “Moana” to “The Invite” was exhausting, disorienting and completely worth it - Detroit Metro Times",
+            "uri": "https://www.metrotimes.com/arts/the-strange-journey-from-evil-dead-burn-to-moana-to-the-invite-was-exhausting-disorienting-and-completely-worth-it/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.metrotimes.com/arts/the-strange-journey-from-evil-dead-burn-to-moana-to-the-invite-was-exhausting-disorienting-and-completely-worth-it/"
+              }
+            ],
+            "index": {
+              "byteEnd": 237,
+              "byteStart": 203
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "“Evil Dead Burn” is nasty but fundamentally broken, while the new “Moana” barely justifies its own existence. Thankfully, “The Invite” is a blisteringly funny and devastating modern classic. www.metrotimes.com/arts/the-str..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.metrotimes.com/arts/the-strange-journey-from-evil-dead-burn-to-moana-to-the-invite-was-exhausting-disorienting-and-completely-worth-it/",
+          "title": "The strange journey from “Evil Dead Burn” to “Moana” to “The Invite” was exhausting, disorienting and completely worth it - Detroit Metro Times",
+          "description": "With only about five minutes between screenings, I caught “Evil Dead Burn” the live-action “Moana” remake and “The Invite.”",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rgjzmhf77ewrsmxmyxaolsxn/bafkreiah7ycgld573o6w6dosicyohs227k2mqnqh4vwrk4hjomzpoybszi"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T19:24:36.467Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:otwf3hobj23h7zdvuj3k2qpc/app.bsky.feed.post/3mqrwdtxhws2a",
+      "cid": "bafyreidgyhvo6di42frzxwrnmjyokb5bkva34r64xvh5vg6uvhukwna2sq",
+      "author": {
+        "did": "did:plc:otwf3hobj23h7zdvuj3k2qpc",
+        "handle": "ratingsuk.bsky.social",
+        "displayName": "Ratings UK",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:otwf3hobj23h7zdvuj3k2qpc/bafkreihmdug6jmqmvio2tyk6k3kafvwdhjw54zgksxok3ycvbhsffez574",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-13T16:31:06.378Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T19:02:08.175Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 2217,
+                "width": 1665
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreid2fwzq3dbqxj5hlai4gu5ctn3u7kvc2cwqyu6lxhm4cgw2befwzq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 1744357
+              }
+            }
+          ]
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "Moana"
+              }
+            ],
+            "index": {
+              "byteEnd": 46,
+              "byteStart": 40
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "TheLittleMermaid"
+              }
+            ],
+            "index": {
+              "byteEnd": 190,
+              "byteStart": 173
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "UK Box Office Number One (10-12 July):\n\n#Moana debuts with a small splash, banking just under £2.9 million. It’s not quite on the level of other live-action remakes like #TheLittleMermaid which started out with just over £5 million."
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:otwf3hobj23h7zdvuj3k2qpc/bafkreid2fwzq3dbqxj5hlai4gu5ctn3u7kvc2cwqyu6lxhm4cgw2befwzq",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:otwf3hobj23h7zdvuj3k2qpc/bafkreid2fwzq3dbqxj5hlai4gu5ctn3u7kvc2cwqyu6lxhm4cgw2befwzq",
+            "alt": "",
+            "aspectRatio": {
+              "height": 2217,
+              "width": 1665
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T19:02:15.165Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:2ag2boorsqavevplyfsjwhyr/app.bsky.feed.post/3mqruuteygs22",
+      "cid": "bafyreid7qslfdauwpk4slesepvgjwhqsba5bfqs23thtqmw4ct5im5enhm",
+      "author": {
+        "did": "did:plc:2ag2boorsqavevplyfsjwhyr",
+        "handle": "ndrichter.bsky.social",
+        "displayName": "The Evil Betty",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ag2boorsqavevplyfsjwhyr/bafkreigftr6ypragxagigtvgug36whps6hgu2d5z7v6bsc6klr22db3way",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "none"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:2ag2boorsqavevplyfsjwhyr",
+            "uri": "at://did:plc:2ag2boorsqavevplyfsjwhyr/app.bsky.actor.profile/self",
+            "cid": "bafyreiezgnpmw72uqhrtf46an33lldts5grwhti2xbij3wuphaigjxwfwa",
+            "val": "!no-unauthenticated",
+            "cts": "2024-11-08T20:02:08.714Z"
+          }
+        ],
+        "createdAt": "2024-11-08T20:02:10.581Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T18:35:50.512Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "YouTube video by Pitch Meeting",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigubgi5t3wuak6zbpcdnit675wvub7cg4gnawhda2wph25z75arhm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 134106
+            },
+            "title": "Live-Action Moana Pitch Meeting",
+            "uri": "https://www.youtube.com/watch?v=svl6lsxCgB0"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.youtube.com/watch?v=svl6lsxCgB0"
+              }
+            ],
+            "index": {
+              "byteEnd": 31,
+              "byteStart": 0
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "www.youtube.com/watch?v=svl6..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.youtube.com/watch?v=svl6lsxCgB0",
+          "title": "Live-Action Moana Pitch Meeting",
+          "description": "YouTube video by Pitch Meeting",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2ag2boorsqavevplyfsjwhyr/bafkreigubgi5t3wuak6zbpcdnit675wvub7cg4gnawhda2wph25z75arhm"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T18:35:51.867Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": true
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:l6zrkmftremdmje5gzu6iqqx/app.bsky.feed.post/3mqru6ef3j22x",
+      "cid": "bafyreifkqvbwh5to3hexbhpidi4hhwtuqr7dxaqno3xmze6drdxgpqyude",
+      "author": {
+        "did": "did:plc:l6zrkmftremdmje5gzu6iqqx",
+        "handle": "winstar.bsky.social",
+        "displayName": "Winstar",
+        "pronouns": "",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l6zrkmftremdmje5gzu6iqqx/bafkreicpvy7w7je5yjlminfkedpg65zs6ndjqpvcxbljq275c6dbzetkvm",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all",
+            "allowGroupInvites": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-08-02T16:17:17.370Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T18:23:16.589Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreifs35ykrcirjdy6cixrx4ydmcm4m6dcwcci6nhmo4sxbjiyro6lom",
+            "uri": "at://did:plc:l6zrkmftremdmje5gzu6iqqx/app.bsky.feed.post/3mqrtxg34zk2x"
+          },
+          "root": {
+            "cid": "bafyreigxxz4djo6pzz4huxrqwaeznj4w4nqaf2kj2kf63fyblcb4lua5jq",
+            "uri": "at://did:plc:mwobmaqarvitfyq3rxyzhlyd/app.bsky.feed.post/3mqrtubvkvk2j"
+          }
+        },
+        "text": "Mickey Mouse voice*\nYou want me to pay taxes? After that Moana live action disaster?\nYou lost your f(beep)ing mind!",
+        "via": "Witchsky Web App"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T18:23:17.474Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:o6ggjvnj4ze3mnrpnv5oravg/app.bsky.feed.post/3mqrsgluuof2h",
+      "cid": "bafyreidbvzlg3r4h6jglu24aurt7ylsmc3lcx243kdw6c3cugxjkzsnlmu",
+      "author": {
+        "did": "did:plc:o6ggjvnj4ze3mnrpnv5oravg",
+        "handle": "longtail-news.bsky.social",
+        "displayName": "Longtail News",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:o6ggjvnj4ze3mnrpnv5oravg/bafkreidir7ju3jscr5rlwlg7r5raukdsizzszflwojh3pdm56cnem3k6hu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2025-01-27T14:58:17.143Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T17:52:01.495956+00:00",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "This review contains spoilers. Sitting in a mostly empty theater, I embarked on the all-too-familiar journey with Moana across the sea to deliver the heart of Te Fiti to its eponymous island.  Since “Moana’s” 2016 release, the tale of the Polynesian princess and storied demigod has captured the hearts and minds of children. But Disney’s...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicv7jiuchdcwjqqbdoxjvotg7aff3bgsrgxzuw2wjdxqxe6bnjebi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 145542
+            },
+            "title": "Reel Thoughts: Disney’s live action ‘Moana’ falls short of the original animated film",
+            "uri": "https://dailynorthwestern.com/2026/07/15/ae/reel-thoughts-disneys-live-action-moana-falls-short-of-the-original-animated-film/"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Feed: \"The Daily Northwestern\"\nBy: Ian Dodd, Reporter on Thursday, July 16, 2026"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://dailynorthwestern.com/2026/07/15/ae/reel-thoughts-disneys-live-action-moana-falls-short-of-the-original-animated-film/",
+          "title": "Reel Thoughts: Disney’s live action ‘Moana’ falls short of the original animated film",
+          "description": "This review contains spoilers. Sitting in a mostly empty theater, I embarked on the all-too-familiar journey with Moana across the sea to deliver the heart of Te Fiti to its eponymous island.  Since “Moana’s” 2016 release, the tale of the Polynesian princess and storied demigod has captured the hearts and minds of children. But Disney’s...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o6ggjvnj4ze3mnrpnv5oravg/bafkreicv7jiuchdcwjqqbdoxjvotg7aff3bgsrgxzuw2wjdxqxe6bnjebi"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T17:52:06.387Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:hjzrmzwgqzokljyqgnd3yt2m/app.bsky.feed.post/3mqrs4dx5ps24",
+      "cid": "bafyreigbctliq2l5i7llgdsdyazuoxukqdlxzdbvl4vrzngk2d5lneyzju",
+      "author": {
+        "did": "did:plc:hjzrmzwgqzokljyqgnd3yt2m",
+        "handle": "1024hunter.bsky.social",
+        "displayName": "Hunter",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hjzrmzwgqzokljyqgnd3yt2m/bafkreicxvfydkxcccz2kcqizmvjzboxuiw7lds2jkga5jinwnqjjckuauu",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-24T19:10:27.346Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T17:46:21.539Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I think the sole reason that Disney made the live action Moana was so people would stop suggesting it."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T17:46:21.864Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:35773ythvujjusivg42q6wqu/app.bsky.feed.post/3mqrqygzmnk2z",
+      "cid": "bafyreiak576xjj7abu2sdgdrtsf7a5tpu45jdjawbsnrfvobcyjjpxxmqu",
+      "author": {
+        "did": "did:plc:35773ythvujjusivg42q6wqu",
+        "handle": "froggher.bsky.social",
+        "displayName": "froggher",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35773ythvujjusivg42q6wqu/bafkreif5k7ywb6vldz4dit4jthogixk7t7zlcuki7okp6ijdxxvqdtnmry",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-06-21T17:09:57.272Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T17:26:16.806Z",
+        "langs": [
+          "en"
+        ],
+        "text": "it’s funny i think moana probably flopped not cause it’s another shitty live-action slop film (which it is) but rather cause it’s a live-action slop film of something that isn’t nostalgic specifically to millennials like it’s too recent of a film to have the nostalgia that the live-action remakes"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T17:26:17.165Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:5ucurx33w4hya7ehq7pdlaj5/app.bsky.feed.post/3mqrqeymtqc2p",
+      "cid": "bafyreianx752crf5rterhjbpvlzq6ixer3a77mpi6s7mj3pt2wdwcbrqwy",
+      "author": {
+        "did": "did:plc:5ucurx33w4hya7ehq7pdlaj5",
+        "handle": "mdksun.bsky.social",
+        "displayName": "FLR",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ucurx33w4hya7ehq7pdlaj5/bafkreibbjmaalljyp656aychsp2ifnr5v4ybcnm52idl3waoqvdsq3en74",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-17T14:11:15.536Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T17:15:24.174Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Disney's new \"Moana\" has flopped at the box office in its opening weekend. What does it mean for the studio's live-action remakes?",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigykogasyq26eetikao7j7sdiealgmmdp7jc5b3pcsvscgu2er4ua"
+              },
+              "mimeType": "image/jpeg",
+              "size": 471079
+            },
+            "title": "'Moana' sinks at box office. Is Disney's live-action remake era over?",
+            "uri": "https://www.usatoday.com/story/entertainment/movies/2026/07/12/moana-remake-box-office-opening-weekend/90865188007/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.usatoday.com/story/entertainment/movies/2026/07/12/moana-remake-box-office-opening-weekend/90865188007/"
+              }
+            ],
+            "index": {
+              "byteEnd": 32,
+              "byteStart": 0
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "www.usatoday.com/story/entert...\n\nWhitey will only watch a movie with cartoon brown people, not real life brown people."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.usatoday.com/story/entertainment/movies/2026/07/12/moana-remake-box-office-opening-weekend/90865188007/",
+          "title": "'Moana' sinks at box office. Is Disney's live-action remake era over?",
+          "description": "Disney's new \"Moana\" has flopped at the box office in its opening weekend. What does it mean for the studio's live-action remakes?",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ucurx33w4hya7ehq7pdlaj5/bafkreigykogasyq26eetikao7j7sdiealgmmdp7jc5b3pcsvscgu2er4ua"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T17:15:26.377Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": true
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:cljmo4dyrjjb4zynjzth5g36/app.bsky.feed.post/3mqrpjr3lok2w",
+      "cid": "bafyreiaz76ux3mqm7oplwfv4lp7cttsg26gdion5q2qnhfehs7vc6nhcim",
+      "author": {
+        "did": "did:plc:cljmo4dyrjjb4zynjzth5g36",
+        "handle": "oopsalldaisys.bsky.social",
+        "displayName": "Daisy!!!!!!",
+        "pronouns": "she/her",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cljmo4dyrjjb4zynjzth5g36/bafkreibtmn7ffsxywusyznjh3xoyh32kbgkmyms3m5crsg32o245sup22u",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-12-06T04:43:05.793Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T17:00:10.272Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreiho45bvydjlmbhusxmsoeny62yykztc63pwdkkj3y4xv3rxcqbqgq",
+            "uri": "at://did:plc:cljmo4dyrjjb4zynjzth5g36/app.bsky.feed.post/3mqrpjr3kpc2w"
+          },
+          "root": {
+            "cid": "bafyreigkcvn4rmazwzl5pbmyha4j7z3id2ologi2sqzscgpael5tpistqm",
+            "uri": "at://did:plc:cljmo4dyrjjb4zynjzth5g36/app.bsky.feed.post/3mqrpjr2qdk2w"
+          }
+        },
+        "text": "Should Disney stop with these live action remakes? Yes. Will they? Probably not. Is the live action Moana failing because it's a uniquely Polynesian story, character and world? No. Will the lesson executives learn that Hawaiian people don't sell? Absolutely. We're all burnt fries in God's air fryer."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T17:00:11.722Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:4xpj3xjxsxxcuh3ghaulzdqu/app.bsky.feed.post/3mqrntloosc2m",
+      "cid": "bafyreid3rcqk3x6dccxuhdaxtwb7idblkkjf6ajs7wk252yvn5w6vjfpnq",
+      "author": {
+        "did": "did:plc:4xpj3xjxsxxcuh3ghaulzdqu",
+        "handle": "yourmandevine.bsky.social",
+        "displayName": "Dan Devine",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4xpj3xjxsxxcuh3ghaulzdqu/bafkreigm45dsvquniojijnj2fr7rugcyejicn3yrbgts6gagvmtkhwfxfi",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-07-16T16:26:21.692Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T16:29:52.692Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Critical Darlings · Episode",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreianiek4i2ftrint3i6emzg6x7rwpjrfjbrpheci3dxk5blo7x4co4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 271442
+            },
+            "title": "“Moana” Is Between The Rock And A Hard Place (With Ben Hosley)",
+            "uri": "https://open.spotify.com/episode/7y66T4ApTwQhBLQippwRig?si=AmnRQ9tcQe6ue6emR272Wg"
+          }
+        },
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#mention",
+                "did": "did:plc:e5ui7dzjh5hspj26s5zys4bq"
+              }
+            ],
+            "index": {
+              "byteEnd": 57,
+              "byteStart": 38
+            }
+          },
+          {
+            "$type": "app.bsky.richtext.facet",
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#mention",
+                "did": "did:plc:ae4qhzzgasi53dz5knicl4a4"
+              }
+            ],
+            "index": {
+              "byteEnd": 87,
+              "byteStart": 60
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://open.spotify.com/episode/7y66T4ApTwQhBLQippwRig?si=AmnRQ9tcQe6ue6emR272Wg"
+              }
+            ],
+            "index": {
+              "byteEnd": 301,
+              "byteStart": 269
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "I really enjoy CRITICAL DARLINGS with @rilaws.bsky.social + @alisonwillmore.bsky.social, especially when it provokes thought about not-so-thoughtful movies — like an episode on the live-action MOANA that left me thinking about The Rock in relation to the manosphere: open.spotify.com/episode/7y66..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://open.spotify.com/episode/7y66T4ApTwQhBLQippwRig?si=AmnRQ9tcQe6ue6emR272Wg",
+          "title": "“Moana” Is Between The Rock And A Hard Place (With Ben Hosley)",
+          "description": "Critical Darlings · Episode",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4xpj3xjxsxxcuh3ghaulzdqu/bafkreianiek4i2ftrint3i6emzg6x7rwpjrfjbrpheci3dxk5blo7x4co4"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 5,
+      "likeCount": 19,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T16:29:53.869Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:m2yuqynl2cttvi4k5453yegh/app.bsky.feed.post/3mqrnnqlm5b72",
+      "cid": "bafyreigndntc2f3pr63xzvy476cc24frwndz6op7g53d45mug4bockfvfu",
+      "author": {
+        "did": "did:plc:m2yuqynl2cttvi4k5453yegh",
+        "handle": "feed.igeek.gamer-geek-news.com.ap.brid.gy",
+        "displayName": "input",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:m2yuqynl2cttvi4k5453yegh",
+            "uri": "at://did:plc:m2yuqynl2cttvi4k5453yegh/app.bsky.actor.profile/self",
+            "cid": "bafyreidwcluawyz4swntu5pk2yd56og5mmidbvzu563bsri6djwprtllgi",
+            "val": "bridged-from-bridgy-fed-activitypub",
+            "cts": "1970-01-01T00:00:00.000Z"
+          }
+        ],
+        "createdAt": "2026-02-21T09:47:53.745Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "bridgyOriginalText": "<p>🎮 <strong>Disney's most ambitious fantasy adventure is a #1 streaming hit for a brutally obvious reason</strong></p><p>John Musker and Ron Clements original animated musical Moana has become a streaming hit, surpassing its dud of a live-action remake.</p><p>📰 Source: Polygon.com<br>🔗 Link: <a href=\"https://www.polygon.com/disney-plus-original-moana-streaming-hit/\" rel=\"nofollow noreferrer noopener\" target=\"_blank\">https://www.polygon.com/disney-plus-original-moana-streaming-hit/</a></p>",
+        "bridgyOriginalUrl": "https://igeek.gamer-geek-news.com/@feed/statuses/01KXNW09YNBJCJFYW2G22RCZJ3",
+        "createdAt": "2026-07-16T16:26:23.000Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "$type": "app.bsky.embed.images#image",
+              "alt": "Image for: Disney's most ambitious fantasy adventure is a #1 streaming hit for a brutally obvious reason",
+              "aspectRatio": {
+                "height": 1390,
+                "width": 2820
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibaixyb3ykizzn7atxjxilnt66wbxoqu4ypnm42pwilhfvyc2vyzi"
+                },
+                "mimeType": "image/png",
+                "size": 3173458
+              }
+            }
+          ]
+        },
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://igeek.gamer-geek-news.com/@feed/statuses/01KXNW09YNBJCJFYW2G22RCZJ3"
+              }
+            ],
+            "index": {
+              "byteEnd": 302,
+              "byteStart": 256
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "🎮 **Disney's most ambitious fantasy adventure is a #1 streaming hit for a brutally obvious reason**\n\nJohn Musker and Ron Clements original animated musical Moana has become a streaming hit, surpassing its dud of a live-action remake.\n\n📰 Source […] \n\n[Original post on igeek.gamer-geek-news.com]"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m2yuqynl2cttvi4k5453yegh/bafkreibaixyb3ykizzn7atxjxilnt66wbxoqu4ypnm42pwilhfvyc2vyzi",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:m2yuqynl2cttvi4k5453yegh/bafkreibaixyb3ykizzn7atxjxilnt66wbxoqu4ypnm42pwilhfvyc2vyzi",
+            "alt": "Image for: Disney's most ambitious fantasy adventure is a #1 streaming hit for a brutally obvious reason",
+            "aspectRatio": {
+              "height": 1390,
+              "width": 2820
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T16:27:05.270Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:hwplqg2ftphp2loefiqudo2i/app.bsky.feed.post/3mqrngkp7lk2u",
+      "cid": "bafyreihc6qwabrq5eh7z7xfyc4qxgep6x6jg5bapexgjbscnzco342unf4",
+      "author": {
+        "did": "did:plc:hwplqg2ftphp2loefiqudo2i",
+        "handle": "hellsbells105.bsky.social",
+        "displayName": "Laura",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hwplqg2ftphp2loefiqudo2i/bafkreiajfdfie2jodedx2fx43gkektlk5wrobrkywkk43ikhc5l6itefli",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "none"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-06T17:02:03.480Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T16:22:35.454Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Disney had some uncharacteristically poor brand management instincts with that live action Moana movie. It’s been 10 years since the original, less than 2 since the sequel, they chose an over crowded month, and they seem to have totally underrated the World Cup as an audience drain."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T16:22:35.968Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:noqkzmotf6xzty55svetub3e/app.bsky.feed.post/3mqrmwzbjes2h",
+      "cid": "bafyreibpywwqyx2nba7kptmdb3kznjmtfq6hms5en5xteuzeqyinmyya4i",
+      "author": {
+        "did": "did:plc:noqkzmotf6xzty55svetub3e",
+        "handle": "withfeelingpod.bsky.social",
+        "displayName": "Once More With Feeling",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:noqkzmotf6xzty55svetub3e/bafkreidjzvx7hldmb4bvwu7lmskl5lgvgwuw2w4pcijqbfa2g7g4ajju2m",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2025-06-23T00:30:15.932Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T16:13:53.864Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Did you know?\n\nFor 1 (one) live action Moana, Disney could have made over 300 (three hundred) Obsessions?"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 10,
+      "quoteCount": 1,
+      "indexedAt": "2026-07-16T16:13:54.364Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wfflno33572d7prsyu3jjrov/app.bsky.feed.post/3mqrmpfmfks2j",
+      "cid": "bafyreicohe6pp5l23b5r2aupemv5hhpq3cepsdohsxis36gircn56ery4e",
+      "author": {
+        "did": "did:plc:wfflno33572d7prsyu3jjrov",
+        "handle": "therealdoneast.bsky.social",
+        "displayName": "Don_East ( 𝔼𝕖𝕧𝕖𝕞𝕓𝕖𝕣)",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wfflno33572d7prsyu3jjrov/bafkreiaau2k2sfdgxbprdlhagqhj5af234xb7ys4yiipghbjup3gxzgshm",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none",
+            "allowGroupInvites": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-07-11T18:40:46.333Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T16:09:38.366Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreigz76umlcvoiscwndkrcqiiqj4jd26fpiutnlg4qdjv4s4bkeeplu",
+            "uri": "at://did:plc:r4ipm2xuvws6uhwzfjogpvis/app.bsky.feed.post/3mqrmjtcukd2c"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "The People wanted this as they wanted a live action Moana remake."
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:r4ipm2xuvws6uhwzfjogpvis/app.bsky.feed.post/3mqrmjtcukd2c",
+          "cid": "bafyreigz76umlcvoiscwndkrcqiiqj4jd26fpiutnlg4qdjv4s4bkeeplu",
+          "author": {
+            "did": "did:plc:r4ipm2xuvws6uhwzfjogpvis",
+            "handle": "preternia.com",
+            "displayName": "preternia",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreiglq35mjmu35r2tfsdixpiwxmazmuw3mwe6paet3bfxfg56m5gmy4",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-06-28T15:47:04.440Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-07-16T16:06:31.401Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 2000
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreig7oq7kzyvkfzwdefnifbx6zcyevlrnjd32fwn6pjap4c247z45by"
+                    },
+                    "mimeType": "image/png",
+                    "size": 572010
+                  }
+                },
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 2000
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreih6ewmjyzzkslce4lwx4gmxfjoza4halelz4y345uswfya7kwq4oe"
+                    },
+                    "mimeType": "image/png",
+                    "size": 966166
+                  }
+                },
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 2000
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreiay4crtr2rdlh4ihcsnkbmp2ijyng5fmwg5irvjdjhf2awhmpukgm"
+                    },
+                    "mimeType": "image/png",
+                    "size": 958784
+                  }
+                },
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 2000
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreifnbmma4qs6f4w767zn3w62u2untrswxhzuhgwhcoow7fprfif2u4"
+                    },
+                    "mimeType": "image/png",
+                    "size": 931500
+                  }
+                }
+              ]
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://bit.ly/4yrgFRk"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 116,
+                  "byteStart": 102
+                }
+              },
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#tag",
+                    "tag": "ad"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 120,
+                  "byteStart": 117
+                }
+              }
+            ],
+            "text": "Mattel WWE Elite The Rock Fanny Pack Edition will be available to purchase at Walmart Collector Con - bit.ly/4yrgFRk #ad \n\nPreorder goes up Thursday, July 23rd."
+          },
+          "labels": [],
+          "likeCount": 20,
+          "replyCount": 0,
+          "repostCount": 4,
+          "quoteCount": 1,
+          "indexedAt": "2026-07-16T16:06:32.369Z",
+          "embeds": [
+            {
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreig7oq7kzyvkfzwdefnifbx6zcyevlrnjd32fwn6pjap4c247z45by",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreig7oq7kzyvkfzwdefnifbx6zcyevlrnjd32fwn6pjap4c247z45by",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 2000
+                  }
+                },
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreih6ewmjyzzkslce4lwx4gmxfjoza4halelz4y345uswfya7kwq4oe",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreih6ewmjyzzkslce4lwx4gmxfjoza4halelz4y345uswfya7kwq4oe",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 2000
+                  }
+                },
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreiay4crtr2rdlh4ihcsnkbmp2ijyng5fmwg5irvjdjhf2awhmpukgm",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreiay4crtr2rdlh4ihcsnkbmp2ijyng5fmwg5irvjdjhf2awhmpukgm",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 2000
+                  }
+                },
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreifnbmma4qs6f4w767zn3w62u2untrswxhzuhgwhcoow7fprfif2u4",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r4ipm2xuvws6uhwzfjogpvis/bafkreifnbmma4qs6f4w767zn3w62u2untrswxhzuhgwhcoow7fprfif2u4",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 2000
+                  }
+                }
+              ],
+              "$type": "app.bsky.embed.images#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T16:09:40.878Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:vwt6opoyqeui2nnohjejp3ms/app.bsky.feed.post/3mqrkytwxek2e",
+      "cid": "bafyreicqjwovlfvl2rkexacmewd6sjrldkhjxiav3jnsk3gqogv3h5ggra",
+      "author": {
+        "did": "did:plc:vwt6opoyqeui2nnohjejp3ms",
+        "handle": "yomimonoid.bsky.social",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vwt6opoyqeui2nnohjejp3ms/bafkreic3j5sxsuidpmkgj6qfd7cx7c4akjcbds2ttm2p5cbjl2ajwjwbzq",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:vwt6opoyqeui2nnohjejp3ms",
+            "uri": "at://did:plc:vwt6opoyqeui2nnohjejp3ms/app.bsky.actor.profile/self",
+            "cid": "bafyreif2jztco3zyzfjuq76fhoavz2rcunp35umyubc7q6tb57pefwmise",
+            "val": "bot",
+            "cts": "2026-05-16T16:16:34.682Z"
+          }
+        ],
+        "createdAt": "2026-05-16T16:16:36.859Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T15:39:07.839Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "TSUZUMI Sings 'Dokomademo ~How Far I'll Go~' in Moana Promo Video\n\nTSUZUMI (ME:I) sings 'Dokomademo ~How Far I'll Go~' in a promo video for the live-action Moana dub. She voices Moana in the Japanese version, opening July 31.",
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreig5yczjy42gzir7jyu2lzjfc4mllgcnaegvkphrp65x3disfrm34u"
+                },
+                "mimeType": "image/png",
+                "size": 629518
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "TSUZUMI Sings 'Dokomademo ~How Far I'll Go~' in Moana Promo Video\n\nTSUZUMI (ME:I) sings 'Dokomademo ~How Far I'll Go~' in a promo video for the live-action Moana dub. She voices Moana in the Japanese version, opening July 31."
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vwt6opoyqeui2nnohjejp3ms/bafkreig5yczjy42gzir7jyu2lzjfc4mllgcnaegvkphrp65x3disfrm34u",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vwt6opoyqeui2nnohjejp3ms/bafkreig5yczjy42gzir7jyu2lzjfc4mllgcnaegvkphrp65x3disfrm34u",
+            "alt": "TSUZUMI Sings 'Dokomademo ~How Far I'll Go~' in Moana Promo Video\n\nTSUZUMI (ME:I) sings 'Dokomademo ~How Far I'll Go~' in a promo video for the live-action Moana dub. She voices Moana in the Japanese version, opening July 31."
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T15:39:08.474Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:cgt2sbo77is5hlz5unqbqpkf/app.bsky.feed.post/3mqrkeirdh22r",
+      "cid": "bafyreifd52cjslg7tbrjvwc5hlgqj6wp5hxwd2sjhkpeoad2fkph4swbma",
+      "author": {
+        "did": "did:plc:cgt2sbo77is5hlz5unqbqpkf",
+        "handle": "aquagems.bsky.social",
+        "displayName": "Aqua Gem (EagleEye)",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cgt2sbo77is5hlz5unqbqpkf/bafkreicullwzzgvssw5mfnekmzv2tgkexagzd2nea5wb62w5riuk7chvf4",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:cgt2sbo77is5hlz5unqbqpkf",
+            "uri": "at://did:plc:cgt2sbo77is5hlz5unqbqpkf/app.bsky.actor.profile/self",
+            "cid": "bafyreiemufwsgqsxige7hj5xqy5ofi5bnxylkefbulw3voh34pyiemd3vy",
+            "val": "!no-unauthenticated",
+            "cts": "1970-01-01T00:00:00.000Z"
+          }
+        ],
+        "createdAt": "2023-09-18T14:31:48.688Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T15:27:45.093Z",
+        "langs": [
+          "en"
+        ],
+        "text": "IMO the reason previous Disney remakes made so much money is because the latest generations of kids haven't seen the originals. Making the live action version of Moana, a movie that came out only a decade ago, means that kids have almost definitely seen it."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T15:27:45.575Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:lfcfhl26iwl5mna2fh6aucju/app.bsky.feed.post/3mqrisxwgik2p",
+      "cid": "bafyreidyr3c3o52gefe7deauxp3rotu2nizfoxu7pm5b4pt3sizpgbikym",
+      "author": {
+        "did": "did:plc:lfcfhl26iwl5mna2fh6aucju",
+        "handle": "silverstarstrike.bsky.social",
+        "displayName": "SilverStarStrike",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lfcfhl26iwl5mna2fh6aucju/bafkreicsyp7ohllanpjqb7hihrowgttwpba7julpdmuvkfkgfuraxtkkae",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-08-25T03:08:36.045Z",
+        "status": {
+          "uri": "at://did:plc:lfcfhl26iwl5mna2fh6aucju/app.bsky.actor.status/self",
+          "cid": "bafyreicor4bt5lyxrpcnvqje4igquamqs5celz3mb5jicxsaq4c4vjkugq",
+          "record": {
+            "$type": "app.bsky.actor.status",
+            "createdAt": "2026-11-11T17:58:54.111Z",
+            "durationMinutes": 150,
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "$type": "app.bsky.embed.external#external",
+                "description": "my neighbors are rennovating their home but i need to lock in | !socials | Streaming art.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiczhso3fpdbdiq5fzh53tnl77ulcfcam3ofrgfog4lwju6m3zk2iq"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 73634
+                },
+                "title": "SilverStarStrike - Live on Twitch",
+                "uri": "https://www.twitch.tv/silverstarstrike"
+              }
+            },
+            "status": "app.bsky.actor.status#live"
+          },
+          "status": "app.bsky.actor.status#live",
+          "embed": {
+            "external": {
+              "uri": "https://www.twitch.tv/silverstarstrike",
+              "title": "SilverStarStrike - Live on Twitch",
+              "description": "my neighbors are rennovating their home but i need to lock in | !socials | Streaming art.",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lfcfhl26iwl5mna2fh6aucju/bafkreiczhso3fpdbdiq5fzh53tnl77ulcfcam3ofrgfog4lwju6m3zk2iq"
+            },
+            "$type": "app.bsky.embed.external#view"
+          },
+          "labels": [],
+          "expiresAt": "2026-11-11T20:28:54.073Z",
+          "isActive": false
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T15:00:03.267Z",
+        "langs": [
+          "en"
+        ],
+        "text": "These damn live action Moana advertisements are gonna make me crash out. Not just because it's a shitty live action remake but also they have adapted their musical movies onto stage plays and I can see it with Moana and that I'd be more interested in even if I very sparingly give didney money."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T15:03:33.771Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:o6ggjvnj4ze3mnrpnv5oravg/app.bsky.feed.post/3mqriambcvx2a",
+      "cid": "bafyreiebsdjy5ymhol63ejptxia2vcyawyeswqzhkqjc6sunaywgdmrhmq",
+      "author": {
+        "did": "did:plc:o6ggjvnj4ze3mnrpnv5oravg",
+        "handle": "longtail-news.bsky.social",
+        "displayName": "Longtail News",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:o6ggjvnj4ze3mnrpnv5oravg/bafkreidir7ju3jscr5rlwlg7r5raukdsizzszflwojh3pdm56cnem3k6hu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2025-01-27T14:58:17.143Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T14:49:44.687866+00:00",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "The latest live action Disney movie, \"Moana\" is hitting theaters — so why are all of these so bad? Watch and read to find out more.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigie6dkf5ek332i2q3d2vccymsl5cdxnjlk55kvb2kqlbzejpj5eq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 206738
+            },
+            "title": "Why Disney's Live-Action Remakes Are So Bad",
+            "uri": "https://www.looper.com/2215623/why-disney-live-acton-remakes-so-bad/"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Feed: \"Looper - TV & Film News, Reviews, Interviews & Trailers\"\nBy: staff@looper.com (Nina Starner) on Wednesday, July 15, 2026"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.looper.com/2215623/why-disney-live-acton-remakes-so-bad/",
+          "title": "Why Disney's Live-Action Remakes Are So Bad",
+          "description": "The latest live action Disney movie, \"Moana\" is hitting theaters — so why are all of these so bad? Watch and read to find out more.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o6ggjvnj4ze3mnrpnv5oravg/bafkreigie6dkf5ek332i2q3d2vccymsl5cdxnjlk55kvb2kqlbzejpj5eq"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T14:49:47.566Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:r4ay5az2gt5ydjwdvxbr44sm/app.bsky.feed.post/3mqri2dve7c2y",
+      "cid": "bafyreia72ww6g2qzvwaf3nnej6yngjag6xpyaodp2kn33sdzzeqi4drwde",
+      "author": {
+        "did": "did:plc:r4ay5az2gt5ydjwdvxbr44sm",
+        "handle": "combatcavscout.bsky.social",
+        "displayName": "Cav(R), Gentleman Rogue",
+        "pronouns": "he/him",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r4ay5az2gt5ydjwdvxbr44sm/bafkreidrnh7pt4rbj7ktkisp23rcszzaerhqnjqumfsfo43bgxztu36dru",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:r4ay5az2gt5ydjwdvxbr44sm",
+            "uri": "at://did:plc:r4ay5az2gt5ydjwdvxbr44sm/app.bsky.actor.profile/self",
+            "cid": "bafyreiaiukbzz4l5anyuu4r6zrfanuvtpqgfj4tbfc4upbgeky4ziknz7e",
+            "val": "!no-unauthenticated",
+            "cts": "1970-01-01T00:00:00.000Z"
+          }
+        ],
+        "createdAt": "2023-05-12T21:34:49.890Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T14:46:16.954Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreicx3zfv6734qns47gj3c5vtlzqc6ij4afky4h67rermraeiuq6nge",
+            "uri": "at://did:plc:ise2ozvyq4ifji2ji6plgq5o/app.bsky.feed.post/3mqrhdxglxc2e"
+          },
+          "root": {
+            "cid": "bafyreicx3zfv6734qns47gj3c5vtlzqc6ij4afky4h67rermraeiuq6nge",
+            "uri": "at://did:plc:ise2ozvyq4ifji2ji6plgq5o/app.bsky.feed.post/3mqrhdxglxc2e"
+          }
+        },
+        "text": "Why do we need live-action versions of movies we’ve already seen? I have kids, it’s not like we haven’t watched the original animated Moana within the last year. No one is asking for this shit."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T14:46:17.372Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:jgoscze7fu4dehdhcuypvhcw/app.bsky.feed.post/3mqrh7bgnd22q",
+      "cid": "bafyreiaiexhd2nnapqbaw3k3rlkheif6tioawnpayla2rvkztmnhtp2xgy",
+      "author": {
+        "did": "did:plc:jgoscze7fu4dehdhcuypvhcw",
+        "handle": "bdangart.bsky.social",
+        "displayName": "Brian Danger Art",
+        "pronouns": "he/him",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jgoscze7fu4dehdhcuypvhcw/bafkreibsfapswf4cl2csjsptm5mcnrsux5veho6txvtwrv663jlb7jkkoa",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-09-12T03:11:50.543Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T14:31:08.405Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreictazxbrsd4l2dysoqhe4s65xwuxuq3p24xy2ekgzqt4txdjayp4m",
+            "uri": "at://did:plc:cwcaapt3xnjh6ytlm2kayb3n/app.bsky.feed.post/3mqrgubapms2a"
+          },
+          "root": {
+            "cid": "bafyreictazxbrsd4l2dysoqhe4s65xwuxuq3p24xy2ekgzqt4txdjayp4m",
+            "uri": "at://did:plc:cwcaapt3xnjh6ytlm2kayb3n/app.bsky.feed.post/3mqrgubapms2a"
+          }
+        },
+        "text": "I haven't seen Live Action Moana yet due to personal life reasons, but I was genuinely excited for this one.😭"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T14:31:14.068Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:cwcaapt3xnjh6ytlm2kayb3n/app.bsky.feed.post/3mqrgubapms2a",
+      "cid": "bafyreictazxbrsd4l2dysoqhe4s65xwuxuq3p24xy2ekgzqt4txdjayp4m",
+      "author": {
+        "did": "did:plc:cwcaapt3xnjh6ytlm2kayb3n",
+        "handle": "tspofnutmeg.bsky.social",
+        "displayName": "Bi-Shoujo Meg 💖🍆🌊",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cwcaapt3xnjh6ytlm2kayb3n/bafkreifnt6x4pzwifuyx5vsvr6rqoav6sjxoooxty2tbvoahj2iwc2yk5u",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-06-03T21:52:53.923Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T14:24:59.112Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I hate that live action Moana bombing at the box office is going to lead to Disney making less stories of people of color instead of stop remaking animated movies into live action. \n\n(And before you well actually me re: live action Lilo & Stitch, it succeeded bc of Stitch, not Lilo)"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 9,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T14:24:57.168Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:nko47mu7w2rwf6f5q5jrseuq/app.bsky.feed.post/3mqrgpx4p722y",
+      "cid": "bafyreica6twxprkf2hpxqmu6jztaddiwylvt25utummifks5zjfwy4enne",
+      "author": {
+        "did": "did:plc:nko47mu7w2rwf6f5q5jrseuq",
+        "handle": "moviejawn.com",
+        "displayName": "MovieJawn",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nko47mu7w2rwf6f5q5jrseuq/bafkreicjlebzofnaoqaz4tqxg4ieulowwfjtb4zbn736qekipqbm4u3axu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-07-03T19:36:18.543Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T14:22:34.274Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "by Harper Rochel Goldman, Staff Writer  There’s always been a cynical IP-extending element to Disney’s little restoration project. As such, there’s a cold calculus to selecting  Moana  for the remake ...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidhk6hvi23jgtrrusvf76573cko2vaugkf2jl4pver6lotdsoqevm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 360340
+            },
+            "title": "MOANA is another tired, awful live-action Disney remake  — Moviejawn",
+            "uri": "https://www.moviejawn.com/home/2026/07/16/moana-2026-review"
+          }
+        },
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#mention",
+                "did": "did:plc:ng2r5doehybyp4ggrhhvxn4a"
+              }
+            ],
+            "index": {
+              "byteEnd": 26,
+              "byteStart": 5
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "Moana"
+              }
+            ],
+            "index": {
+              "byteEnd": 133,
+              "byteStart": 127
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "MJ's @pronouns.bsky.social says, \"Compared to the original MOANA, this is only entertaining insofar as it’s a carbon copy.\"\n\n#Moana is now playing in theaters"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.moviejawn.com/home/2026/07/16/moana-2026-review",
+          "title": "MOANA is another tired, awful live-action Disney remake  — Moviejawn",
+          "description": "by Harper Rochel Goldman, Staff Writer  There’s always been a cynical IP-extending element to Disney’s little restoration project. As such, there’s a cold calculus to selecting  Moana  for the remake ...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nko47mu7w2rwf6f5q5jrseuq/bafkreidhk6hvi23jgtrrusvf76573cko2vaugkf2jl4pver6lotdsoqevm"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 3,
+      "quoteCount": 1,
+      "indexedAt": "2026-07-16T14:22:34.270Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:hmq4jruqsbrtu577fojdw6i3/app.bsky.feed.post/3mqrfkiuw7s2m",
+      "cid": "bafyreiaicbvh7xz7pgzhozhmfeihtgdi4hpdbqmto4xttxl7c7t6oebcxa",
+      "author": {
+        "did": "did:plc:hmq4jruqsbrtu577fojdw6i3",
+        "handle": "justabystander4.bsky.social",
+        "displayName": "𝕲𝖆𝖇𝖊/𝕵𝖚𝖓𝖔",
+        "pronouns": "he/him",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hmq4jruqsbrtu577fojdw6i3/bafkreigy6dqoo7zypvembds7r3co6tl5na2buty45z27i7vba7g4b7pjxa",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-09-20T18:13:03.808Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T14:01:37.827Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiguvpfpi6dmyv4muexu2gformbhytyal6odpatgkbe3dc557o6pzi",
+            "uri": "at://did:plc:afv7ga2of3fp3fwewht6uewg/app.bsky.feed.post/3mqrdfibzk22j"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Im sorry but there is smth so funny ab ppl in the comments not knowing that this live action Moana is currently out of theaters behfdhbdbdbdhd"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:afv7ga2of3fp3fwewht6uewg/app.bsky.feed.post/3mqrdfibzk22j",
+          "cid": "bafyreiguvpfpi6dmyv4muexu2gformbhytyal6odpatgkbe3dc557o6pzi",
+          "author": {
+            "did": "did:plc:afv7ga2of3fp3fwewht6uewg",
+            "handle": "skylerkari.bsky.social",
+            "displayName": "bootkari",
+            "pronouns": "he/him",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:afv7ga2of3fp3fwewht6uewg/bafkreibgejbt67ktyyxav6i5i77qzouubycy7fydnjpeeyyflrqmdwj7km",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:afv7ga2of3fp3fwewht6uewg",
+                "uri": "at://did:plc:afv7ga2of3fp3fwewht6uewg/app.bsky.actor.profile/self",
+                "cid": "bafyreieykfvkr2hgu557oqujg7oveni63hiuhwi6f5qbzp3vrz3loz7qxq",
+                "val": "!no-unauthenticated",
+                "cts": "2024-11-04T08:02:22.177Z"
+              }
+            ],
+            "createdAt": "2024-11-04T08:02:23.379Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-07-16T13:23:01.948Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 4000,
+                    "width": 3000
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreifrq4eedu5kpw3cx2wxyp6ml237chtqib63wsq4dljhww6iz6zbpe"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 1881279
+                  }
+                }
+              ]
+            },
+            "langs": [
+              "en"
+            ],
+            "text": " demonic creature"
+          },
+          "labels": [],
+          "likeCount": 11,
+          "replyCount": 3,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-07-16T13:23:13.066Z",
+          "embeds": [
+            {
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:afv7ga2of3fp3fwewht6uewg/bafkreifrq4eedu5kpw3cx2wxyp6ml237chtqib63wsq4dljhww6iz6zbpe",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:afv7ga2of3fp3fwewht6uewg/bafkreifrq4eedu5kpw3cx2wxyp6ml237chtqib63wsq4dljhww6iz6zbpe",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 4000,
+                    "width": 3000
+                  }
+                }
+              ],
+              "$type": "app.bsky.embed.images#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 0,
+      "likeCount": 7,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T14:01:38.569Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:ysfwvzlzs3w7fwirqjif74dh/app.bsky.feed.post/3mqrdl4uvek2m",
+      "cid": "bafyreigarsenkwcg4fwuu5ruyjkmup6ujdzatj7keqys3ahb3evnjkpzf4",
+      "author": {
+        "did": "did:plc:ysfwvzlzs3w7fwirqjif74dh",
+        "handle": "iwillmikumikuyou.bsky.social",
+        "displayName": "♡Lena!🦐",
+        "pronouns": "she/they Ela/dele",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ysfwvzlzs3w7fwirqjif74dh/bafkreiczocigayt4p6vp5z4fyamwvss2ly42g3qeorrq3ezy6jpol544ri",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-10-22T14:58:59.515Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T13:26:11.315Z",
+        "langs": [
+          "en",
+          "pt"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreibjtopfrtbajcajowi5jsvq6shu4hzmb3zvq6f3l2gqqsdbnzgqza",
+            "uri": "at://did:plc:crbstgasklje7kz667pc7wky/app.bsky.feed.post/3mqrdgzx72k2p"
+          },
+          "root": {
+            "cid": "bafyreiguvpfpi6dmyv4muexu2gformbhytyal6odpatgkbe3dc557o6pzi",
+            "uri": "at://did:plc:afv7ga2of3fp3fwewht6uewg/app.bsky.feed.post/3mqrdfibzk22j"
+          }
+        },
+        "text": "Im very sorry to tell you this non mutual random person but theres gonna be a Moana live action..."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T13:26:13.077Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "replyDisabled": true,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:u6hgodgb77kwqk6gufbevdlg/app.bsky.feed.post/3mqr6gdoijs2g",
+      "cid": "bafyreiajdzuggobk4ctmx2tk72nu6pfk3efseno2hzjgi7fi25ruumvoni",
+      "author": {
+        "did": "did:plc:u6hgodgb77kwqk6gufbevdlg",
+        "handle": "rayshawnmccoy.me",
+        "displayName": "loverboyrayy. 💜",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:u6hgodgb77kwqk6gufbevdlg/bafkreia3prlf2xqd6uiwxbi2fcmkemxmtzivm2tuqlw23klfpedamtlvxu",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-12T21:00:59.214Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T11:54:01.962Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "ALT: Tiffany Pollard on I Love New York",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaozhacnwybzhvnmuaddygjuhufvfdtjwn332h4zpyqyxbl5feqwu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 48201
+            },
+            "title": "Tiffany Pollard on I Love New York",
+            "uri": "https://static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/c5/5b/l6XKZqf3.gif?hh=264&ww=352&mp4=syqe8X42om0YLzNIwRj8&webm=nyiZZRjSO4dno4wdj"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "moana live action flopping feels like vindication for them shelving the princess & the frog series. 🤭"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/c5/5b/l6XKZqf3.gif?hh=264&ww=352&mp4=syqe8X42om0YLzNIwRj8&webm=nyiZZRjSO4dno4wdj",
+          "title": "Tiffany Pollard on I Love New York",
+          "description": "ALT: Tiffany Pollard on I Love New York",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u6hgodgb77kwqk6gufbevdlg/bafkreiaozhacnwybzhvnmuaddygjuhufvfdtjwn332h4zpyqyxbl5feqwu"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 2,
+      "likeCount": 8,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T11:54:02.978Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:vbtpmcuytob6usv5v67fjqkv/app.bsky.feed.post/3mqr6d4pbbc2m",
+      "cid": "bafyreif2bjo6wodcuudukv5mhbobucilizs4rn2t6s5b276dmrarq2333u",
+      "author": {
+        "did": "did:plc:vbtpmcuytob6usv5v67fjqkv",
+        "handle": "eigenwereldnl.bsky.social",
+        "displayName": "EigenwereldNL",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbtpmcuytob6usv5v67fjqkv/bafkreihhajkuqp6s5q5d7w753fivtdjhzpgniqtoqenmiau4d2fq3ddaly",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2025-01-29T20:18:46.144Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T11:52:13.985Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "",
+            "title": "Eigenwereld.nl - Nieuws: Moana Live Action DISASTER Flops At The Box Office, Will Lose MILLIONS For Disn",
+            "uri": "https://eigenwereld.nl/nieuws.php?id=111979"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://eigenwereld.nl/nieuws.php?id=111979"
+              }
+            ],
+            "index": {
+              "byteEnd": 113,
+              "byteStart": 83
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "disney"
+              }
+            ],
+            "index": {
+              "byteEnd": 121,
+              "byteStart": 114
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "disneyplus"
+              }
+            ],
+            "index": {
+              "byteEnd": 155,
+              "byteStart": 144
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "disneyplusnl"
+              }
+            ],
+            "index": {
+              "byteEnd": 169,
+              "byteStart": 156
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "liveaction"
+              }
+            ],
+            "index": {
+              "byteEnd": 181,
+              "byteStart": 170
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "moana"
+              }
+            ],
+            "index": {
+              "byteEnd": 188,
+              "byteStart": 182
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Moana Live Action DISASTER Flops At The Box Office, Will Lose MILLIONS For Disney! eigenwereld.nl/nieuws.php?i... #disney .@DisneyNL .@DisneyBE #disneyplus #disneyplusnl #liveaction #moana .@TheRock"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://eigenwereld.nl/nieuws.php?id=111979",
+          "title": "Eigenwereld.nl - Nieuws: Moana Live Action DISASTER Flops At The Box Office, Will Lose MILLIONS For Disn",
+          "description": ""
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T11:52:14.275Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:jlagqur6c2ghgwca7lpvfyso/app.bsky.feed.post/3mqr5wr2ols24",
+      "cid": "bafyreigoepcqxwkenccjmcp6cnjx66hrfuj4mvxp33mh3dwendxgoeneya",
+      "author": {
+        "did": "did:plc:jlagqur6c2ghgwca7lpvfyso",
+        "handle": "hal10000.bsky.social",
+        "displayName": "Hal 10000",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jlagqur6c2ghgwca7lpvfyso/bafkreifw2kgprbllfrg7clk7pwmzyskbjqf5usjmxmsnbppv3qyqyoe3xa",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-07-06T21:34:17.951Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T11:45:19.123Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "YouTube video by Snarky Jay",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid7tdj667a4ioz6sjvphm5dzzfs63mffm7fc57ccrhbh5u72pw2ka"
+              },
+              "mimeType": "image/jpeg",
+              "size": 149737
+            },
+            "title": "Moana (2026) Movie Review | A Soulless DISASTER!",
+            "uri": "https://www.youtube.com/watch?v=5uQ6qL-lyqA"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.youtube.com/watch?v=5uQ6qL-lyqA"
+              }
+            ],
+            "index": {
+              "byteEnd": 298,
+              "byteStart": 267
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "She hates everything, but has a point. A shot-for-shot remake of animation is tricky; things that work in animation may not work in live action. She specifically singles out the scene where Maui pees on Moana's hand: funny in animation but disturbing in live action. www.youtube.com/watch?v=5uQ6..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.youtube.com/watch?v=5uQ6qL-lyqA",
+          "title": "Moana (2026) Movie Review | A Soulless DISASTER!",
+          "description": "YouTube video by Snarky Jay",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jlagqur6c2ghgwca7lpvfyso/bafkreid7tdj667a4ioz6sjvphm5dzzfs63mffm7fc57ccrhbh5u72pw2ka"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T11:45:22.972Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:47d3tacgsiiboxhc7vo6b7y2/app.bsky.feed.post/3mqr5ugqkyc2i",
+      "cid": "bafyreia7brycg33rnygvxrafjsyqaf2nmqyeuulzfp2bsdwlxkw67vxzjq",
+      "author": {
+        "did": "did:plc:47d3tacgsiiboxhc7vo6b7y2",
+        "handle": "nothingofvalue.bsky.social",
+        "displayName": "Not Yet",
+        "pronouns": "they/them",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:47d3tacgsiiboxhc7vo6b7y2/bafkreiawjvqrp3m3pszzstot4sg6s5dkxl6gl3z53qyh5klbkxpjy6itne",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-09-18T23:00:07.432Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T11:44:01.197Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Disney is using the original “Moana” water animation for the live action movie? They really are just trying to squeeze every cent out of this IP and it sucks."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T11:44:04.979Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:4g6zi2jtzafk45u6zuhsipr5/app.bsky.feed.post/3mqr56e5p522n",
+      "cid": "bafyreiedwwrmiskcbgump22u52m2csmtogc6zzcnfs5sec7vi3pgu2fcqi",
+      "author": {
+        "did": "did:plc:4g6zi2jtzafk45u6zuhsipr5",
+        "handle": "f4wso-1.bsky.social",
+        "displayName": "Cal M",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4g6zi2jtzafk45u6zuhsipr5/bafkreia5u3rqq7g5kwgopbrot3ehcnchkjebqmez2jdr3yqxl3zt467xhq",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:4g6zi2jtzafk45u6zuhsipr5",
+            "uri": "at://did:plc:4g6zi2jtzafk45u6zuhsipr5/app.bsky.actor.profile/self",
+            "cid": "bafyreidhfqvefqvb4q2catgf3hwi7pebpl6a5jh5kvocrappkgrlte6liy",
+            "val": "!no-unauthenticated",
+            "cts": "2024-11-20T06:51:11.982Z"
+          }
+        ],
+        "createdAt": "2024-11-20T06:51:12.970Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T11:31:40.284Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "‘Moana’—the original animated Disney film—is a longtime favorite in our household. Here’s my kid’s honest review about how the live action version holds up.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigf5n44p4bujuvs6vr65bkjcz2vnqf7kzghjpc6xczv3lhkkhfbqy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 348554
+            },
+            "title": "I Just Watched Disney’s New Live-Action ‘Moana’ with My 8-Year-Old—Here’s His Surprising Review",
+            "uri": "https://www.purewow.com/family/moana-live-action-movie-review"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.purewow.com/family/moana-live-action-movie-review"
+              }
+            ],
+            "index": {
+              "byteEnd": 282,
+              "byteStart": 251
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Critics panned LIVE ACTION Moana BUT younger audiences have loved it. My son went to see it and he loved it. Why?  He remembers the animated version and the Live action Moana brings it all back for him.  \n\nForget the critic reviews. Take your kids. \n\nwww.purewow.com/family/moana..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.purewow.com/family/moana-live-action-movie-review",
+          "title": "I Just Watched Disney’s New Live-Action ‘Moana’ with My 8-Year-Old—Here’s His Surprising Review",
+          "description": "‘Moana’—the original animated Disney film—is a longtime favorite in our household. Here’s my kid’s honest review about how the live action version holds up.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4g6zi2jtzafk45u6zuhsipr5/bafkreigf5n44p4bujuvs6vr65bkjcz2vnqf7kzghjpc6xczv3lhkkhfbqy"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T11:31:41.866Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:mo7puwnmw3wyr2aaanw33i46/app.bsky.feed.post/3mqr53tjbyuj2",
+      "cid": "bafyreidvdvnmstceaijugetkmocdy2ndw4gp3d3wrcg7dgvz5v5ghartdu",
+      "author": {
+        "did": "did:plc:mo7puwnmw3wyr2aaanw33i46",
+        "handle": "darkestkale.mastodon.social.ap.brid.gy",
+        "displayName": ":trebuchet: Kale :trebuchet:",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mo7puwnmw3wyr2aaanw33i46/bafkreifo3owf65ufnstfbp42dirvmpy5pzyf7zcs4bekc3fbchpilublom",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:mo7puwnmw3wyr2aaanw33i46",
+            "uri": "at://did:plc:mo7puwnmw3wyr2aaanw33i46/app.bsky.actor.profile/self",
+            "cid": "bafyreiha7x3zx2z377krg2hhxltuyiqy2a2e4tc57irwimnj3ruwgxltjm",
+            "val": "bridged-from-bridgy-fed-activitypub",
+            "cts": "1970-01-01T00:00:00.000Z"
+          }
+        ],
+        "createdAt": "2024-11-17T12:48:38.243Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "bridgyOriginalText": "<p>Gypsy is watching the behind the scenes/highlights thing for the live action Moana, and there&#39;s so many lens flares/weird lighting effects.</p><p>It&#39;s baffling.</p>",
+        "bridgyOriginalUrl": "https://mastodon.social/@DarkestKale/116929423679524159",
+        "createdAt": "2026-07-16T11:30:11.000Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "$type": "app.bsky.feed.post#replyRef",
+          "parent": {
+            "cid": "bafyreig2cjrnlkz2zamrmgqaagqio5ho3jgfi4uipyjo7ayygftvmezzmq",
+            "uri": "at://did:plc:mo7puwnmw3wyr2aaanw33i46/app.bsky.feed.post/3mqr3bxcgwyc2"
+          },
+          "root": {
+            "cid": "bafyreiao5zfpixxb4mt6pt6ilckbatv7x7g5fprx7b7ev257j67qlybhvu",
+            "uri": "at://did:plc:mo7puwnmw3wyr2aaanw33i46/app.bsky.feed.post/3mqpvzsldr4a2"
+          }
+        },
+        "text": "Gypsy is watching the behind the scenes/highlights thing for the live action Moana, and there's so many lens flares/weird lighting effects.\n\nIt's baffling."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T11:30:47.968Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:zg6aosmg55bkoz4jzfk7m3qh/app.bsky.feed.post/3mqr3tisocc2j",
+      "cid": "bafyreif2sblerkr4dqeghjl6d57tq6qhk4ntawdopbkctoelfumkpe7chm",
+      "author": {
+        "did": "did:plc:zg6aosmg55bkoz4jzfk7m3qh",
+        "handle": "lindzmcleod.bsky.social",
+        "displayName": "Dr Lindz McLeod - THE MISEDUCATION OF CAROLINE BINGLEY out now!",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zg6aosmg55bkoz4jzfk7m3qh/bafkreihr4ute4a3lb2uciaxtw5gjehjrl7gmpwiozxgwsf4k5h5aqvbi5i",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none",
+            "allowGroupInvites": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-07-12T19:16:48.995Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T11:07:42.326Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreieubypbfta2bz7l26p5bpiqgdvxn52kbhyhenf7hc64vh6e4wdpqi",
+            "uri": "at://did:plc:2cfkdp7ejopfbeibjvf7repv/app.bsky.feed.post/3mqr45znm3c2d"
+          },
+          "root": {
+            "cid": "bafyreieubypbfta2bz7l26p5bpiqgdvxn52kbhyhenf7hc64vh6e4wdpqi",
+            "uri": "at://did:plc:2cfkdp7ejopfbeibjvf7repv/app.bsky.feed.post/3mqr45znm3c2d"
+          }
+        },
+        "text": "Cast is pretty stacked, it's a well-known story, Nolan is great when he's great (and awful when he's not, IMO), and we haven't had a really good Big Epic since Gladiator. If it gets butts in seats I'm all for it, considering some of the slop recently (Minecraft movie, live action Moana, etc)."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T11:07:43.070Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:eiroqhvmrl6xbr35pavye5lw/app.bsky.feed.post/3mqqwmycnjs2m",
+      "cid": "bafyreiflkct7kc2fkyehdfejedn6pi3dg7y3bz3evqigqpikjlp2ygc3py",
+      "author": {
+        "did": "did:plc:eiroqhvmrl6xbr35pavye5lw",
+        "handle": "duncanweldon.bsky.social",
+        "displayName": "Duncan Weldon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eiroqhvmrl6xbr35pavye5lw/bafkreidd5obopvxibokgwdqnidvj27c3qxdlob6le24xgzaxd7onktfgs4",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-12T11:44:59.507Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "issuerDisplayName": "Bluesky",
+              "issuerHandle": "bsky.app",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lvat5gtcut2d",
+              "isValid": true,
+              "createdAt": "2025-07-31T09:29:22.093Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T09:34:34.988Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Because I watched the live action version this weekend… you can make a case that Moana is essentially a cautionary tale against attempts at economic self-sufficiency and arguing for more global engagement."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 4,
+      "likeCount": 19,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T09:34:35.772Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "replyDisabled": true,
+        "embeddingDisabled": false
+      },
+      "labels": [],
+      "threadgate": {
+        "uri": "at://did:plc:eiroqhvmrl6xbr35pavye5lw/app.bsky.feed.threadgate/3mqqwmycnjs2m",
+        "cid": "bafyreig3sbsvxaxxlblvly4bupknulbccyqpiokdb22jzzy3dgafelbkei",
+        "record": {
+          "$type": "app.bsky.feed.threadgate",
+          "allow": [
+            {
+              "$type": "app.bsky.feed.threadgate#followingRule"
+            },
+            {
+              "$type": "app.bsky.feed.threadgate#followerRule"
+            },
+            {
+              "$type": "app.bsky.feed.threadgate#mentionRule"
+            }
+          ],
+          "createdAt": "2026-07-16T09:34:35.003Z",
+          "hiddenReplies": [],
+          "post": "at://did:plc:eiroqhvmrl6xbr35pavye5lw/app.bsky.feed.post/3mqqwmycnjs2m"
+        },
+        "lists": []
+      }
+    },
+    {
+      "uri": "at://did:plc:wckzvzmttgkqiwzbyq2vlyoj/app.bsky.feed.post/3mqqnugc2d224",
+      "cid": "bafyreid2pc4ohnpt2y3ietm2ga3uykjnmuhrbig6injkbwuxvfu553dnsu",
+      "author": {
+        "did": "did:plc:wckzvzmttgkqiwzbyq2vlyoj",
+        "handle": "rhaccart.bsky.social",
+        "displayName": "Renaud",
+        "pronouns": "he/him",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wckzvzmttgkqiwzbyq2vlyoj/bafkreicumipln2cfpn6dnz4cenu353iygta7ammyac7wam7yi4hbknluai",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-08-19T15:29:17.368Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T06:57:40.852Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreiahh4ke22qwqja7fwnu7s4beffkeapehgitjhxdwcazkfupivc3ua",
+            "uri": "at://did:plc:wckzvzmttgkqiwzbyq2vlyoj/app.bsky.feed.post/3mqqnqeisys24"
+          },
+          "root": {
+            "cid": "bafyreiahh4ke22qwqja7fwnu7s4beffkeapehgitjhxdwcazkfupivc3ua",
+            "uri": "at://did:plc:wckzvzmttgkqiwzbyq2vlyoj/app.bsky.feed.post/3mqqnqeisys24"
+          }
+        },
+        "text": "And it’s not a dig on Moana! But Moana 2 was terrible - an almost beat by beat copy of the first script except weaker in every way. Even the Cars franchise did a better job at this game. And yet here we are with a terrible live action and allegedly some plans down the line for a Moana 3 no one wants"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T06:57:41.664Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:w3vsggn43342wnjz5ixscx2j/app.bsky.feed.post/3mqqnt6ch2k2x",
+      "cid": "bafyreierdktx4hl55fedui66pctmbqs3o56e7clvoacoipknw4ip3w64fi",
+      "author": {
+        "did": "did:plc:w3vsggn43342wnjz5ixscx2j",
+        "handle": "kamerson.vtubers.social",
+        "displayName": "Kamerson ⭐❤️",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w3vsggn43342wnjz5ixscx2j/bafkreibigxlgyten72ph6qmclwdquau7jzfgbfwsf36dj7z3e76aodwyv4",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-02-23T06:35:12.082Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T06:56:58.922Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreidgfzrr4fw4svxqnui5jsklzajbegsklvt5jsjqvbpld3nvhn6fiy",
+            "uri": "at://did:plc:n2gfriykvxuwyjqxx2u57mnn/app.bsky.feed.post/3mqqe4342zs2d"
+          },
+          "root": {
+            "cid": "bafyreidgfzrr4fw4svxqnui5jsklzajbegsklvt5jsjqvbpld3nvhn6fiy",
+            "uri": "at://did:plc:n2gfriykvxuwyjqxx2u57mnn/app.bsky.feed.post/3mqqe4342zs2d"
+          }
+        },
+        "text": "that live-action moana net loss must've hit hard"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T06:57:00.963Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:dhzrdzi3rfm2xbzaxu7fqkd3/app.bsky.feed.post/3mqqnbhdks22o",
+      "cid": "bafyreig3d5qb3clhray2xmicuhgshozheauw4md6ujmstfyj42syoisfpu",
+      "author": {
+        "did": "did:plc:dhzrdzi3rfm2xbzaxu7fqkd3",
+        "handle": "djassassino.bsky.social",
+        "displayName": "Derek 🇲🇽",
+        "pronouns": "he/him",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dhzrdzi3rfm2xbzaxu7fqkd3/bafkreihe6pgcvpipgpf6jlbnlnrwn4sjkdwrhuy3xtguitgxkdvrn57d5q",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-09-09T02:21:27.886Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T06:47:04.417Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "I don't think you need me to tell you that Disney Live Action remakes have been a blight on cinema. Often times they suck the personality and life out of the original, all for the purpose of re-releas...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreig43aaxpuqotclunyv72thottfapi2yr7vwgcdegbxd4drctxz5ly"
+              },
+              "mimeType": "image/jpeg",
+              "size": 556257
+            },
+            "title": "A ★½ review of Moana (2026)",
+            "uri": "https://boxd.it/fgdOYZ"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://boxd.it/fgdOYZ"
+              }
+            ],
+            "index": {
+              "byteEnd": 76,
+              "byteStart": 62
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Haven't posted a review of a movie I hated yet so here ya go! boxd.it/fgdOYZ"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://boxd.it/fgdOYZ",
+          "title": "A ★½ review of Moana (2026)",
+          "description": "I don't think you need me to tell you that Disney Live Action remakes have been a blight on cinema. Often times they suck the personality and life out of the original, all for the purpose of re-releas...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dhzrdzi3rfm2xbzaxu7fqkd3/bafkreig43aaxpuqotclunyv72thottfapi2yr7vwgcdegbxd4drctxz5ly"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T06:47:06.978Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:qfomke2vridd3viwnnvf6dvq/app.bsky.feed.post/3mqqc3t7bt22h",
+      "cid": "bafyreib4qncaa3mtkookwwuu6qdj6mky5dngotzt52c4ttf4v7cesxceju",
+      "author": {
+        "did": "did:plc:qfomke2vridd3viwnnvf6dvq",
+        "handle": "mangiotto.bsky.social",
+        "displayName": "Walter Chaw",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qfomke2vridd3viwnnvf6dvq/bafkreicnzxpwdktkfk6xckpgd55tyjeu4nkapnusukly2mqrekduf2dsgy",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2023-05-20T02:57:22.245Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T03:27:04.371Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I can't review the live action MOANA because I walked out of it after about ten minutes. I retired to a bar across the street where I drank a nice lager and then I went home to see my wife and my dogs, who love me."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 7,
+      "repostCount": 17,
+      "likeCount": 352,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T03:27:05.567Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "replyDisabled": true,
+        "embeddingDisabled": true
+      },
+      "labels": [],
+      "threadgate": {
+        "uri": "at://did:plc:qfomke2vridd3viwnnvf6dvq/app.bsky.feed.threadgate/3mqqc3t7bt22h",
+        "cid": "bafyreigwjiquaw3zsuxi5nu5j4bhadfsdfjqycl3xed6zfde2gcsa7tumy",
+        "record": {
+          "$type": "app.bsky.feed.threadgate",
+          "allow": [
+            {
+              "$type": "app.bsky.feed.threadgate#followingRule"
+            }
+          ],
+          "createdAt": "2026-07-16T03:27:04.377Z",
+          "hiddenReplies": [],
+          "post": "at://did:plc:qfomke2vridd3viwnnvf6dvq/app.bsky.feed.post/3mqqc3t7bt22h"
+        },
+        "lists": []
+      }
+    },
+    {
+      "uri": "at://did:plc:7r6oqxarlehoxenr3o5dqzh6/app.bsky.feed.post/3mqqbhrnric2o",
+      "cid": "bafyreibrwrkvmpjjf7trpbuii7dembzoyrhhpmn2aepjhzzdomkkpdhabe",
+      "author": {
+        "did": "did:plc:7r6oqxarlehoxenr3o5dqzh6",
+        "handle": "parodydisney.bsky.social",
+        "displayName": "Disney",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7r6oqxarlehoxenr3o5dqzh6/bafkreibiowvhcem5poer4ueq2axv6zv5kfppezgh5m7dgwik74yruswnwi",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following",
+            "allowGroupInvites": "following"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2025-02-24T01:41:31.744Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T03:15:49.738Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreie7z6xg4zdxfh3rcb4iph4stgc7rkvlgwk2c7khkzeu53qhhkzp5a",
+            "uri": "at://did:plc:7r6oqxarlehoxenr3o5dqzh6/app.bsky.feed.post/3mqqbhptgcc2o"
+          },
+          "root": {
+            "cid": "bafyreie7z6xg4zdxfh3rcb4iph4stgc7rkvlgwk2c7khkzeu53qhhkzp5a",
+            "uri": "at://did:plc:7r6oqxarlehoxenr3o5dqzh6/app.bsky.feed.post/3mqqbhptgcc2o"
+          }
+        },
+        "text": "You fuckers didn’t bother to watch my live action Moana movie."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T03:15:52.755Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:o6ggjvnj4ze3mnrpnv5oravg/app.bsky.feed.post/3mqq4zkzlu62q",
+      "cid": "bafyreid5x22cw7ypkwwztm4zdclzjpd6vdqzpw5eufi5adtt6h2dtibwfe",
+      "author": {
+        "did": "did:plc:o6ggjvnj4ze3mnrpnv5oravg",
+        "handle": "longtail-news.bsky.social",
+        "displayName": "Longtail News",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:o6ggjvnj4ze3mnrpnv5oravg/bafkreidir7ju3jscr5rlwlg7r5raukdsizzszflwojh3pdm56cnem3k6hu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2025-01-27T14:58:17.143Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T01:56:15.842021+00:00",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "I have some suggestions, Disney.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid3ylexizpxziexjhvz73xe7salyqe3wz4gttwbvikvxxredtnv5i"
+              },
+              "mimeType": "image/jpeg",
+              "size": 171367
+            },
+            "title": "Moana Didn't Do Well At The Box Office, But Disney Can Still Salvage These Live-Action Adaptations",
+            "uri": "https://www.cinemablend.com/movies/moana-didnt-do-well-at-box-office-disney-can-still-salvage-these-live-action-adaptation"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Feed: \"Latest from CinemaBlend\"\nBy: Rich Knight on Wednesday, July 15, 2026"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.cinemablend.com/movies/moana-didnt-do-well-at-box-office-disney-can-still-salvage-these-live-action-adaptation",
+          "title": "Moana Didn't Do Well At The Box Office, But Disney Can Still Salvage These Live-Action Adaptations",
+          "description": "I have some suggestions, Disney.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o6ggjvnj4ze3mnrpnv5oravg/bafkreid3ylexizpxziexjhvz73xe7salyqe3wz4gttwbvikvxxredtnv5i"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T01:56:20.167Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:gmrh4dkdjcha2hhbfstvpouk/app.bsky.feed.post/3mqpyfbwgdk2a",
+      "cid": "bafyreiakfiovxjshhiqjibkdk44zmspite6i6j2t4kh3cvhzy2vfbw4cwy",
+      "author": {
+        "did": "did:plc:gmrh4dkdjcha2hhbfstvpouk",
+        "handle": "jengwensven.bsky.social",
+        "displayName": "JenGwenSven",
+        "pronouns": "*sigh*",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gmrh4dkdjcha2hhbfstvpouk/bafkreihuxedtugk53rppn2na7fz4bo7shlckuvx6mvuxilhpbfqowf6wkq",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "none"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false
+        },
+        "labels": [
+          {
+            "src": "did:plc:gmrh4dkdjcha2hhbfstvpouk",
+            "uri": "at://did:plc:gmrh4dkdjcha2hhbfstvpouk/app.bsky.actor.profile/self",
+            "cid": "bafyreidwell63ynhpv2glnykwxl5nfrxgs3sy3oo236axf2vcncufsd7ha",
+            "val": "!no-unauthenticated",
+            "cts": "2025-01-28T19:44:59.368Z"
+          }
+        ],
+        "createdAt": "2025-01-28T19:45:00.645Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-07-16T00:33:24.380Z",
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreierhwn3nwtqhdmoz4cxt6gwvpauplhrzyp4t5uggtcfyv5w7ncs5e",
+            "uri": "at://did:plc:pqkzhmjihpk6sgbvlwqtdnrd/app.bsky.feed.post/3mqpy2wunec2d"
+          },
+          "root": {
+            "cid": "bafyreihxgrctpewadf4wz4tbczyygyjr4masm4isydhlrhkx25u3xgdbn4",
+            "uri": "at://did:plc:bjyv5zs7jfrfffzvaunemzer/app.bsky.feed.post/3mqmu6pasck2k"
+          }
+        },
+        "text": "You said “Moana 3 over a live action remake “ while criticising the actual like action remake. Moana 3 would be animated, so obviously, you would prefer cartoon characters over real people/actors. Federal agent??? Like Raymond LeVoi Littleweiner?😆"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2026-07-16T00:33:26.366Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": true
+      },
+      "labels": []
+    }
+  ]
+}
